@@ -1,0 +1,1 @@
+No se realizó ningún commit, ya que git no toma carpetas vacias como un cambio 
