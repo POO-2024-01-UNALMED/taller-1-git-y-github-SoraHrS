@@ -1,2 +1,8 @@
 ¿Por qué ahora si puedo crear un commit y subir la carpeta?
 ahora si se logró realizar un commit con la carpeta archivos, ya que no se encuentra vacía
+Sorany Herrera Suarez
+18 años
+Con esta materia, espero profundizar en el paradigma de la programación orientada a objetos 
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque se generan conflictos en los que el repositorio no sabe que cambio dejar
