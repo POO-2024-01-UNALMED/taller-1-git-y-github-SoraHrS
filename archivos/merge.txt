@@ -1,1 +1,2 @@
-
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+ahora si se logró realizar un commit con la carpeta archivos, ya que no se encuentra vacía
